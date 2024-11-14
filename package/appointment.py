@@ -1,5 +1,5 @@
-#Tushar Borole
-#Python 2.7
+
+
 
 from flask_restful import Resource, reqparse
 from flask import jsonify
